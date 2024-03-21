@@ -15,3 +15,6 @@ p{
   display: flex;
   justify-content: space-between;
 }
+b{
+  font-size: xx-large;
+}

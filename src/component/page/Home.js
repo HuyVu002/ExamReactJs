@@ -4,7 +4,7 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import ListGroup from 'react-bootstrap/ListGroup';
 import { Container } from 'react-bootstrap';
 
-function Menu(){
+function Home(){
 
     return (
       <Container>
@@ -43,4 +43,4 @@ function Menu(){
         
     );
 }
-export default Menu;
+export default Home;
