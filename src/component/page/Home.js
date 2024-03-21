@@ -37,8 +37,6 @@ function Home(){
           <Form.Check type="checkbox" label="Favorite" className='mt-2' />
           <Button size="sm" variant="success" type="submit"><i class="bi bi-plus-circle"></i>Add</Button>
         </div>
-        
-        
       </Container>
         
     );
