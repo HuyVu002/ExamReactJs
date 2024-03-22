@@ -16,7 +16,7 @@ function App() {
       <Menu/>
       <section className='main'>
           <Routes>
-            <Route path='/Home'  Component={Home} />
+            <Route path='/'  Component={Home} />
             <Route path='/favorite' Component={Favorite} />
           </Routes>
         </section>
